@@ -1,0 +1,22 @@
+"""Demo License (Non-Commercial)  
+Version 1.0 — October 2025
+
+Copyright (c) 2025 Serge Caraus
+
+Permission is hereby granted, free of charge, to any person reviewing this repository for the sole purpose of evaluating Serge Caraus’s skills and suitability for employment (the “Purpose”), to use, copy, and modify the materials in this repository (the “Software”) strictly as necessary for the Purpose.
+
+Restrictions
+1. Non-Commercial Use Only. The Software may not be sold, licensed, sublicensed, used in production, or used for any commercial or revenue-generating activity.
+2. No Distribution Beyond Evaluation. You may share the Software internally within your organization only as needed to conduct an employment evaluation of Serge Caraus. Any public redistribution or publication (including posting binaries, models, datasets, or large code excerpts) is prohibited without prior written permission.
+3. No Trademark/Endorsement. The names “Serge Caraus” or any associated marks may not be used to endorse or promote derivative works without explicit written permission.
+4. Third-Party Materials. This Software may reference third-party libraries, data, or services which are governed by their own licenses/terms. You are responsible for complying with those licenses/terms.
+
+No Warranty
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Termination
+Any use of the Software in violation of this License automatically terminates the rights granted herein.
+
+Contact
+For permissions beyond the scope of this license, contact: serge.caraus 
+"""
