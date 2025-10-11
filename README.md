@@ -15,7 +15,7 @@ Employer-facing demo notebook that builds a **relative-value stock table** and r
 - **Performance metrics:** `Cumulative Return`, `Max Drawdown`.
 - **Backtest (illustrative):** Monthly **200-DMA** timing model using `pyalgotrade`.
 
-Outputs a single analysis table: **`rv_dataframe`**.
+Outputs a single analysis table: **`Quantitative Value Stocks.csv`**.
 
 ---
 
